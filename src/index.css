@@ -67,23 +67,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
-.App {
-  font-family: 'Courier New', Courier, monospace;
-  text-align: center;
-}
 
 .container {
   display: flex;
   justify-content: center; /* Horizontal centering */
   align-items: center; /* Vertical centering */
   min-height: 100vh; /* Ensure full viewport height */
-  color: yellow; /* Change text color */
+  color: beige; /* Change text color */
 }
 
-.grid{
-  display: grid;
-  place-items: center;
-}
 
 .buttons {
   display: flex;
